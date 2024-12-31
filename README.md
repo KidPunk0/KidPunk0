@@ -1,2 +1,6 @@
 - 👋 Hi, I’m @KidPunk0
-- 👀 I’m interested in Cyber Security
+- 👀 Pilot/ Full Stack Dev
+- Checkout what ive made so far!
+- https://Sumrai.org
+- https://Christmasai.art
+- More on the way!

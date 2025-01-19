@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KidPunk0
 - 👀 Pilot/ Full Stack Dev
 - Checkout what ive made so far!
-- https://Sumrai.org
-- https://Christmasai.art
+- https://dav3builds.dev
 - More on the way!
